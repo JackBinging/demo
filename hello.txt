@@ -1,8 +1,4 @@
 Hello
 World
 vue
-
-
-
 Java
-Python
